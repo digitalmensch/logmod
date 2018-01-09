@@ -13,7 +13,7 @@ setup(
     keywords='logging, module, debugging',
     platforms='any',
     license="MIT",
-    version='0.0',
+    version='0.1',
     author='Tobias Ammann',
     py_modules=['logmod'],
     install_requires=['structlog'],
