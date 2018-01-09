@@ -16,6 +16,7 @@ setup(
     version='0.0',
     author='Tobias Ammann',
     py_modules=['logmod'],
+    install_requires=['structlog'],
     classifiers=[
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
