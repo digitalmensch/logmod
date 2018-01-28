@@ -3,9 +3,14 @@ logmod
 
 Log all calls to a module
 
-.. image:: https://snyk.io/test/github/digitalmensch/logmod/badge.svg?targetFile=requirements.txt
-   :target: https://snyk.io/test/github/digitalmensch/logmod?targetFile=requirements.txt
-   :alt: Known Vulnerabilities
+.. image:: https://snyk.io/test/github/digitalmensch/logmod/badge.svg
+   :target: https://snyk.io/test/github/digitalmensch/logmod
+
+.. image:: https://travis-ci.org/digitalmensch/logmod.svg?branch=master
+   :target: https://travis-ci.org/digitalmensch/logmod
+
+.. image:: https://coveralls.io/repos/github/digitalmensch/logmod/badge.svg?branch=master
+   :target: https://coveralls.io/github/digitalmensch/logmod?branch=master
 
 Dependencies
 ------------
