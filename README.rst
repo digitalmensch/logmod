@@ -3,6 +3,10 @@ logmod
 
 Log all calls to a module
 
+.. image:: https://snyk.io/test/github/digitalmensch/logmod/badge.svg?targetFile=requirements.txt
+   :target: https://snyk.io/test/github/digitalmensch/logmod?targetFile=requirements.txt
+   :alt: Known Vulnerabilities
+
 Dependencies
 ------------
 
