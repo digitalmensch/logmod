@@ -1,1 +1,1 @@
-structlog==18.1.0
+structlog==18.2.0
